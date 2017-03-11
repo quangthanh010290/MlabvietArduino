@@ -1,0 +1,78 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\cc3200-launchxl_sch_rev4p1-c.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\cc3200-launchxl_sch_rev4p1-c.dsn")
+      (Path "Design Resources" ".\cc3200-launchxl_sch_rev4p1-c.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources" ".\cc3200-launchxl_sch_rev4p1-c.dsn"
+         "SCHEMATIC1" "6. Revision History"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 301"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 521")
+        (Scroll "516 245")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\DATA\GIT\TI_CC3200\HARDWARE\CC3200-LAUNCHXL_SCH_REV4P1-C.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2. Main Page"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 752 78 538")
+        (Scroll "0 0")
+        (Zoom "39")
+        (Occurrence "/"))
+      (Path "C:\DATA\GIT\TI_CC3200\HARDWARE\CC3200-LAUNCHXL_SCH_REV4P1-C.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3. HOST INTERFACE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 573")
+        (Scroll "-338 0")
+        (Zoom "39")
+        (Occurrence "/"))
+      (Path "C:\DATA\GIT\TI_CC3200\HARDWARE\CC3200-LAUNCHXL_SCH_REV4P1-C.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "4. ICDI"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1766 130 599")
+        (Scroll "-338 0")
+        (Zoom "39")
+        (Occurrence "/"))
+      (Path "C:\DATA\GIT\TI_CC3200\HARDWARE\CC3200-LAUNCHXL_SCH_REV4P1-C.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "5. Sensors. Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 156 1792 156 625")
+        (Scroll "-79 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\DATA\GIT\TI_CC3200\HARDWARE\CC3200-LAUNCHXL_SCH_REV4P1-C.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "6. Revision History")))
+  (MPSSessionName "ThanhLe"))
