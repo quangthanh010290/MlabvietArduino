@@ -5,9 +5,9 @@
 
 2. Install IDE
    http://processors.wiki.ti.com/index.php/Download_CCS
-3.Import and Configure Project
-  Choose Project>Import CCS Projects from the menu
-  Select the Browse button in the Import CCS Eclipse Projects dialog, and Select the director C:\TI\CC3200SDK_x.x.x\cc3200-sdk.
+3. Import and Configure Project
+  - Choose Project>Import CCS Projects from the menu
+  - Select the Browse button in the Import CCS Eclipse Projects dialog, and Select the director C:\TI\CC3200SDK_x.x.x\cc3200-sdk\example
 # TI_CC3200 Energia Getting Started
 1. Install Energia IDE
   http://energia.nu/download/
