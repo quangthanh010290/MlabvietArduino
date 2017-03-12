@@ -1,5 +1,5 @@
------TI-REX started at Sat Mar 11 2017 23:57:42 GMT+0700 (SE Asia Standard Time)
-Sat, 11 Mar 2017 16:57:43 GMT connect deprecated methodOverride: use method-override npm module instead at app.js:569:21
+-----TI-REX started at Sun Mar 12 2017 02:10:48 GMT+0700 (SE Asia Standard Time)
+Sat, 11 Mar 2017 19:10:50 GMT connect deprecated methodOverride: use method-override npm module instead at app.js:569:21
 ",
     {
         "address": "192.168.222.1",
@@ -9,7 +9,7 @@ Sat, 11 Mar 2017 16:57:43 GMT connect deprecated methodOverride: use method-over
         "internal": false
     }
 ]
-2017-03-11T16:57:42.739Z INFO DAEMON dinfra C:\ti\ccsv7\tirex\ti-rex-core\dinfra-desktop\dinfra.js:381:24:discoverAddress() [
+2017-03-11T19:10:48.616Z INFO DAEMON dinfra C:\ti\ccsv7\tirex\ti-rex-core\dinfra-desktop\dinfra.js:381:24:discoverAddress() [
     "multiple candidate address ignored",
     "Wi-Fi",
     {
@@ -20,362 +20,53 @@ Sat, 11 Mar 2017 16:57:43 GMT connect deprecated methodOverride: use method-over
         "internal": false
     }
 ]
------TI-REX started at Sat Mar 11 2017 23:57:42 GMT+0700 (SE Asia Standard Time)
-2017-03-11T16:57:42.751Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\app.js:240:12:initApp() [
-    "-----TI-REX started at Sat Mar 11 2017 23:57:42 GMT+0700 (SE Asia Standard Time)"
+-----TI-REX started at Sun Mar 12 2017 02:10:48 GMT+0700 (SE Asia Standard Time)
+2017-03-11T19:10:48.642Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\app.js:240:12:initApp() [
+    "-----TI-REX started at Sun Mar 12 2017 02:10:48 GMT+0700 (SE Asia Standard Time)"
 ]
-2017-03-11T16:57:43.296Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\app.js:287:12:initApp() [
+2017-03-11T19:10:50.548Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\app.js:287:12:initApp() [
     "Version: 3.1.1"
 ]
-2017-03-11T16:57:43.297Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:161:12:Function.Vars.createDirs() [
+2017-03-11T19:10:50.549Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:161:12:Function.Vars.createDirs() [
     "content dir: c:\\ti"
 ]
-2017-03-11T16:57:43.297Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:165:12:Function.Vars.createDirs() [
+2017-03-11T19:10:50.549Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:165:12:Function.Vars.createDirs() [
     "db dir: C:\\Users\\ThanhLe\\ti\\tirex-localserver-3.0.0\\.db"
 ]
-2017-03-11T16:57:43.298Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:170:12:Function.Vars.createDirs() [
+2017-03-11T19:10:50.550Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:170:12:Function.Vars.createDirs() [
     "db logs dir: C:\\Users\\ThanhLe\\ti\\tirex-localserver-3.0.0\\.db\\logs"
 ]
-2017-03-11T16:57:43.299Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:175:12:Function.Vars.createDirs() [
+2017-03-11T19:10:50.550Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:175:12:Function.Vars.createDirs() [
     "sitemap dir: C:\\Users\\ThanhLe\\ti\\tirex-localserver-3.0.0\\.db\\sitemap"
 ]
-2017-03-11T16:57:43.299Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:180:12:Function.Vars.createDirs() [
+2017-03-11T19:10:50.551Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:180:12:Function.Vars.createDirs() [
     "downloads dir: C:\\Users\\ThanhLe\\ti\\tirex-localserver-3.0.0\\.downloads"
 ]
-2017-03-11T16:57:43.300Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:185:12:Function.Vars.createDirs() [
+2017-03-11T19:10:50.551Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\vars.js:185:12:Function.Vars.createDirs() [
     "user config dir: C:\\Users\\ThanhLe\\ti\\tirex-localserver-3.0.0"
 ]
-2017-03-11T16:57:43.303Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[]"
+2017-03-11T19:10:50.593Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
+    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\"]"
 ]
-2017-03-11T16:57:43.306Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
+2017-03-11T19:10:50.605Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
     "DB: status {}"
 ]
-2017-03-11T16:57:43.431Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:50:12:logInfo() [
+2017-03-11T19:10:51.017Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:50:12:logInfo() [
     "localserver",
     "Starting up local server ..."
 ]
-2017-03-11T16:57:43.433Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:50:12:logInfo() [
+2017-03-11T19:10:51.030Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:50:12:logInfo() [
     "localserver",
-    "CCS host: http://localhost:57645/"
+    "CCS host: http://localhost:65299/"
 ]
-2017-03-11T16:57:43.445Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:50:12:logInfo() [
+2017-03-11T19:10:51.046Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:50:12:logInfo() [
     "localserver",
     "Connecting to remote server host: https://dev.ti.com/tirex"
 ]
-2017-03-11T16:57:43.461Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\app.js:2519:20:Server.<anonymous>() [
-    "Express server listening on port 57953"
+2017-03-11T19:10:51.075Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\app.js:2519:20:Server.<anonymous>() [
+    "Express server listening on port 65313"
 ]
-2017-03-11T16:57:48.878Z ERROR DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:47:12:logError() [
-    "localserver",
-    undefined
-]
-2017-03-11T16:57:48.887Z ERROR DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:47:12:logError() [
-    "localserver",
-    "_archiveAndDownloadContents: undefined"
-]
-2017-03-11T16:57:50.191Z ERROR DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:47:12:logError() [
-    "localserver",
-    undefined
-]
-2017-03-11T16:57:50.191Z ERROR DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:47:12:logError() [
-    "localserver",
-    "_archiveAndDownloadContents: undefined"
-]
-2017-03-11T16:57:50.199Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:50:12:logInfo() [
+2017-03-11T19:10:56.844Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\lib\localserver.js:50:12:logInfo() [
     "localserver",
     "Connected to remote server host: https://dev.ti.com/tirex"
 ]
-2017-03-11T16:57:54.029Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[]"
-]
-2017-03-11T16:57:54.030Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:57:56.610Z ERROR DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\app.js:2477:28:fs.readJson() [
-    {
-        "type": "Error",
-        "message": "ENOENT: no such file or directory, open 'C:\\Users\\ThanhLe\\ti\\tirex-localserver-3.0.0\\user-config.json'",
-        "stack": [
-            { name: "Error", loc: "native" }
-        ],
-        "errno": -4058,
-        "code": "ENOENT",
-        "syscall": "open",
-        "path": "C:\\Users\\ThanhLe\\ti\\tirex-localserver-3.0.0\\user-config.json"
-    }
-]
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-2017-03-11T16:57:59.006Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:57:59.009Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-2017-03-11T16:58:00.759Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:00.762Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:01.500Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:01.506Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:01.701Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:01.703Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:01.776Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:01.778Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:01.783Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:01.784Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:01.970Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:01.973Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:02.007Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:02.010Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:02.517Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:02.519Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:02.574Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:02.577Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:02.622Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:02.625Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:02.737Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:02.739Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:02.924Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:02.930Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:03.030Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:03.035Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:03.507Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:03.509Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:03.517Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:03.519Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:03.563Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:03.564Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:03.796Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:03.797Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:03.871Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:03.872Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:04.037Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:04.038Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:04.425Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:04.427Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:04.494Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:04.497Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:04.549Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:04.550Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:04.750Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:04.755Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:04.777Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:04.780Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:04.827Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:04.828Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:05.411Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:05.414Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:05.460Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:05.463Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:05.560Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:05.563Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:05.710Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:05.717Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:05.726Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:05.729Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-2017-03-11T16:58:05.785Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:05.787Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-2017-03-11T16:58:06.303Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:06.305Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:06.426Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:06.439Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-2017-03-11T16:58:06.533Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:49:12:RexDBSplit.use() [
-    "DB: use() called with[\"c2000ware_software_package__1.00.00.00\",\"com.ti.SIMPLELINK_CC13X0_SDK__1.30.00.06\",\"com.ti.SIMPLELINK_CC2640R2_SDK__1.30.00.25\",\"com.ti.SIMPLELINK_MSP432_SDK_BLUETOOTH_PLUGIN__1.10.00.42\",\"cc3200sdk__1.1.0.0\",\"sitara__1.02.00.00\",\"com.ti.SIMPLELINK_MSP432_SDK__1.30.00.40\",\"com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__1.30.00.03\",\"com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.30.00.27\",\"com.ti.SIMPLELINK_CC32XX_SDK__1.30.01.03\",\"tirtos_simplelink__2.13.01.09\",\"tm4c__2.1.3.156\",\"tirtos_tivac__2.16.00.08\",\"tirtos_msp43X__2.20.00.06\",\"tirtos_cc13xx_cc26xx__2.21.00.06\",\"xdctools__3.50.00.10\",\"msp430ware__3.60.00.10\",\"com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__1.12.00.00\",\"com.ti.SIMPLELINK_ACADEMY_MSP432SDK__1.12.00.00\"]"
-]
-2017-03-11T16:58:06.535Z INFO DAEMON tirex C:\ti\ccsv7\tirex\ti-rex-core\rexdb\lib\rexdb-split.js:83:16:() [
-    "DB: status {}"
-]
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
-User configuration saved successfully.
