@@ -14,3 +14,7 @@
   http://energia.nu/download/
 2. [optional] Get install CCS, CCS use energia as plugin
  http://processors.wiki.ti.com/index.php/Download_CCS
+
+# Board Description
+
+![alt tag](https://www.element14.com/community/dtss-images/uploads/devtool/diagram/large/SimpleLink+Wi-Fi+CC3200+LaunchPad+5511ec19a66c1.png)
