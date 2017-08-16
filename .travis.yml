@@ -12,7 +12,7 @@ install:
   - arduino --install-library "Adafruit SleepyDog Library,Adafruit MQTT Library"
   - arduino --install-library "Servo"
 script:
-  - arduino --verify --board arduino:avr:uno $PWD/examples/test/test.ino
+  - arduino --pref build.path=$PWD/examples/test/build --verify --board arduino:avr:uno $PWD/examples/test/test.ino --save-pref
 notifications:
   email:
     on_success: change
