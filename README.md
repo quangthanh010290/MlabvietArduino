@@ -1,4 +1,4 @@
-# ArduinoServo
+# ArduinoServo [![Build Status](https://travis-ci.org/quangthanh010290/Mlabviet_Servo.svg?branch=master)](https://travis-ci.org/quangthanh010290/Mlabviet_Servo)
 Video Using this libs
   1. Robot Arm, Arduino Mini
   
