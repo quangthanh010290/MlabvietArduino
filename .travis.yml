@@ -10,6 +10,7 @@ before_install:
 install:
   - ln -s $PWD /usr/local/share/arduino/libraries/Mlabviet_Servo
   - arduino --install-library "Adafruit SleepyDog Library,Adafruit MQTT Library"
+  - arduino --install-library "Servo"
 script:
   - arduino --verify --board arduino:avr:uno $PWD/examples/test/test.ino
 notifications:
