@@ -1,7 +1,7 @@
 #ifndef MyServo_H
 #define MyServo_H
 #include <Arduino.h>
-#include "Servo.h"
+#include <Servo.h>
 #define ENABLE_CONTROL_BY_TIME
 #define T_PERIOD 6000
 //#define ENABLE_CONTROL_BY_STEP
