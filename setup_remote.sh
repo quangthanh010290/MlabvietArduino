@@ -23,7 +23,7 @@ fi
 if  [ ! -z "$cc3200" ] ; then
 	echo "remote $cc3200 is existed"
 else
-    git remote add thanh_stm32 https://github.com/quangthanh010290/TI_CC3200.git
+    git remote add thanh_cc3200 https://github.com/quangthanh010290/TI_CC3200.git
 fi
 
 
