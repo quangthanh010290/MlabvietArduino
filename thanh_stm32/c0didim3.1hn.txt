@@ -1,0 +1,7 @@
+﻿SOURCE
+
+#
+# Write a message for tag:
+#   SOURCE
+# Lines starting with '#' will be ignored.
+
